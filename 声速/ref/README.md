@@ -86,3 +86,42 @@
 
 - H. V. Regnault, "Mémoire sur la vitesse de propagation des ondes dans les milieux gazeux", *Mémoires de l'Académie des sciences*, 1868, 37, 3-575.
   - Regnault 在长管道中对气体中波速进行系统测量的经典长篇论文。Wikisource/Archives 卷中有相关摘录，完整原卷建议通过 Gallica、HathiTrust 或图书馆查阅。
+
+## 从 References 归类补充的声学文献
+
+以下资料原先位于项目根目录的 `References` 文件夹，现已按声学传播、声场和声学材料方向归入本文件夹：
+
+- `Chinese_1990_现代声学评述_物理.pdf`：中文现代声学综述资料。
+- `Chinese_2024_微穿孔板与管束穿孔板吸声性能研究进展综述.pdf`：微穿孔板和管束穿孔板吸声研究综述。
+- `Chinese_马大猷_中国物理学会.pdf`：马大猷先生声学研究与学术贡献资料。
+- `Crawford_1968_Berkeley_Physics_Course_Waves.pdf`：Berkeley Physics Course《Waves》，涵盖波动、驻波和声波基础。
+- `Fink_1992_Time_Reversal_Ultrasonic_Fields_Part_I.pdf`：超声场时间反演的经典论文。
+- `Liu_2000_Locally_Resonant_Sonic_Materials.pdf`：局域共振声学材料的代表性论文。
+- `MaDayou_1979_中国声学三十年_声学学报.pdf`：中国声学发展史与研究方向综述。
+- `Ma_Sheng_2016_Acoustic_Metamaterials_Review.pdf`：声学超材料综述。
+- `Morse_1948_Vibration_and_Sound.pdf`：振动与声学经典教材。
+- `Rayleigh_1877_The_Theory_of_Sound_Vol1.pdf`：Rayleigh《The Theory of Sound》第一卷。
+- `Rayleigh_1877_The_Theory_of_Sound_Vol2.pdf`：Rayleigh《The Theory of Sound》第二卷。
+- `TianJing_2025_沿着马大猷先生开拓的方向不断前进.pdf`：马大猷声学思想与中国声学发展的纪念综述。
+
+## 继续补充的开放文献
+
+- `Hellesund_2018_Smartphone_Cardboard_Tube.pdf`
+  - Simen Hellesund, “Measuring the Speed of Sound in Air Using a Smartphone and a Cardboard Tube”, 2018。
+  - 将经典 Kundt 管实验简化为智能手机、纸管和扫频信号源，适合低成本实验与数据分析演示。
+  - 来源：https://arxiv.org/abs/1812.06732
+
+- `Berg_Courtney_2011_Echo_Based_Speed_of_Sound.pdf`
+  - Alivia Berg and Michael Courtney, “Echo-based measurement of the speed of sound”, 2011。
+  - 通过气球爆裂声、墙面回声和数字波形测量声速，适合回声法可视化和时间差分析。
+  - 来源：https://arxiv.org/abs/1102.2664
+
+- `Monteiro_2022_Home_Lab_Resonance_Sound_Speed.pdf`
+  - Martin Monteiro, Cecilia Stari and Arturo C. Marti, “A home-lab experiment: resonance and sound speed using telescopic vacuum cleaner pipes”, 2022。
+  - 使用伸缩吸尘器管和手机研究声学共振，并由共振频率与管长关系求声速，适合家庭实验和参数拟合。
+  - 来源：https://arxiv.org/abs/2208.02671
+
+- `Altitude_2008_Student_Experiment_Speed_of_Sound.pdf`
+  - “A student designed experiment measuring the speed of sound as a function of altitude”, 2008。
+  - 讨论利用双麦克风时间延迟测量不同高度处的声速，适合研究温度、气体成分和环境条件的影响。
+  - 来源：https://arxiv.org/abs/0807.2491

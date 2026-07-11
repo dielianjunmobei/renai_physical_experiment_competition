@@ -76,3 +76,81 @@
 - J. Cook, "Recording Lissajous Figures", *Journal of the Acoustical Society of America*, 1945.
   - 关于记录 Lissajous 图形的早期教学/实验文章。
   - BYU/AIP 页面下载到的是 HTML 跳转页，不是 PDF；已删除误下载文件。
+
+## 从 References 归类补充的振动文献
+
+以下资料原先位于项目根目录的 `References` 文件夹，现已按振动合成、驻波、正交振动和机械振动方向归入本文件夹：
+
+- `Chladni_1802_Die_Akustik.pdf`：Chladni《Die Akustik》，包含振动体、节点、节线和 Chladni 图样。
+- `Chinese_2022_国外最新振动学教材调研及特色分析.pdf`：国外振动学教材与教学特色综述。
+- `Chinese_IHEP_振动专题_傅里叶与振动合成.pdf`：傅里叶级数、频谱和振动合成专题资料。
+- `Chinese_SJTU_第29-30讲_振动与波1.pdf`：振动、波动、叠加和驻波课程资料。
+- `DenHartog_1956_Mechanical_Vibrations.pdf`：机械振动经典教材，涉及自由振动、受迫振动和正常模。
+- `Fourier_1878_Analytical_Theory_of_Heat.pdf`：傅里叶级数与周期振动分解的经典数学来源。
+- `Helmholtz_1895_On_the_Sensations_of_Tone.pdf`：复合音、泛音、拍频和共鸣的经典著作。
+- `Melde_1860_Erregung_stehender_Wellen_Annalen_volume.pdf`：弦上驻波和驻波实验的经典文献。
+- `Terquem_1878_Courbes_de_deux_mouvements_vibratoires_perpendiculaires.pdf`：两个相互垂直振动合成曲线的经典论文。
+
+## 继续补充的开放文献
+
+- `Doll_Ingold_2007_Lissajous_Curves_Semiclassical_Theory.pdf`
+  - Roland Doll and Gert-Ludwig Ingold, “Lissajous curves and semiclassical theory: The two-dimensional harmonic oscillator”, *American Journal of Physics*, 75, 208, 2007。
+  - 从二维各向同性、非各向同性和频率可公度振子的角度讨论 Lissajous 曲线，适合研究频率比与闭合轨迹。
+  - 来源：https://arxiv.org/abs/quant-ph/0611062
+
+- `Hogan_2019_Oscilloscope_Lissajous_Measurements.pdf`
+  - 示波器测量资料，包含用 Lissajous 图形测量频率和相位差的实验方法。
+  - 适合补充 XY 模式、频率比较和相位测量的实验教学内容。
+  - 来源：https://hogan53.net/272/oscilloscope.pdf
+
+- `Dullin_Waalkens_2018_Lissajous_Superintegrability.pdf`
+  - Holger R. Dullin and Henk Waalkens, “Classical and Quantum Super-integrability: From Lissajous Figures to Exact Solvability”, 2018。
+  - 从经典与量子超可积系统角度讨论 Lissajous 型轨道，适合拓展频率共振、闭合轨迹和二维振子理论。
+  - 来源：https://arxiv.org/abs/1711.10583
+
+## 本次追加的数学、实验与工程应用文献
+
+- `Barna_Matyas_2020_Lissajous_Prime_Frequencies.pdf`
+  - Imre F. Barna and László Mátyás, “Lissajous curves with a finite sum of prime number frequencies”。
+  - 研究由多个正弦、余弦频率叠加形成的广义 Lissajous 曲线，适合拓展频率合成和复杂轨迹可视化。
+  - 来源：https://arxiv.org/abs/2009.01687
+
+- `Wang_2020_Dense_Rapid_Lissajous_Scanning.pdf`
+  - Junya Wang, Gaofei Zhang and Zheng You, “Design rules for dense and rapid Lissajous scanning”, *Microsystems & Nanoengineering*, 2020。
+  - 讨论 Lissajous 扫描的频率选择、填充率、时间分辨率和空间分辨率，适合研究扫描轨迹设计。
+  - 来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC8433367/
+
+- `Birla_2020_Lissajous_Phase_Identification_MEMS.pdf`
+  - Mayur Birla et al., “Image processing metrics for phase identification of a multiaxis MEMS scanner”, 2020。
+  - 利用图像清晰度和模糊度指标识别 MEMS Lissajous 扫描中的相位延迟，适合图像处理和相位校正。
+  - 来源：https://microsystems.engin.umich.edu/wp-content/uploads/sites/141/2024/09/2020_Birla_PhaseCorrection_TMECH.pdf
+
+- `OnChip_2022_MEMS_Lissajous_Scanner.pdf`
+  - “On-chip frequency tuning of fast resonant MEMS scanner”, 2022。
+  - 讨论双轴 MEMS 扫描镜的片上频率调谐和二维 Lissajous 扫描，适合了解现代微机电应用。
+  - 来源：https://arxiv.org/abs/2206.06785
+
+- `Lehar_Harmonic_Resonance_Lissajous_Chapter.pdf`
+  - Scott L. H. Lehar, *Harmonic Resonance*, Chapter 2。
+  - 直观展示相位差、频率比与 Lissajous 图形之间的关系，适合作为可视化和教学参考。
+  - 来源：https://slehar.com/wwwRel/HRezBook/Chap2.pdf
+
+- `Littlejohn_Mathematica_2D_Oscillator_Lissajous.pdf`
+  - Robert G. Littlejohn, *A Mathematica Primer* 相关章节。
+  - 通过 Mathematica 绘制二维简谐振子和 Lissajous 曲线，适合编程可视化和参数实验。
+  - 来源：https://workbench.lafayette.edu/~thomasbd/Phys218-OscillationsWaves-Spring-2024/mathematica-primer.pdf
+
+- `Nonlinear_Lissajous_Orbits_2026.pdf`
+  - “Nonlinear Lissajous orbits and particular superintegrability”, 2026。
+  - 讨论非线性振子中的 Lissajous 型轨道和特殊共振条件，适合作为非线性拓展阅读。
+  - 来源：https://arxiv.org/abs/2606.25145
+
+- `Ollongren_1967_Lissajous_Galactic_Orbits.pdf`
+  - Alexander Ollongren, “Construction of Galactic Stellar Orbits Similar to Harmonic Oscillators”, 1967。
+  - 将二维谐振子和 Lissajous 型轨道用于恒星轨道模型，体现 Lissajous 曲线在动力学中的应用。
+  - 来源：https://adsabs.harvard.edu/pdf/1967AJ.....72..436O
+
+- `Cena_2014_2D_Harmonic_Oscillator_Lissajous.pdf`
+  - Cícero R. Cena et al., “Uma abordagem teórica e experimental do oscilador harmônico em duas dimensões utilizando as curvas de Lissajous”, 2014。
+  - 结合二维简谐振子理论和低成本实验装置展示 Lissajous 轨迹，适合物理教学和实验设计。
+  - DOI：https://doi.org/10.1590/S1806-11172014000200002
